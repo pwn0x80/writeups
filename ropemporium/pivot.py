@@ -1,5 +1,4 @@
 #pwn0x80.github.io
-# aditya0x80
 # ROPE{a_placeholder_64byte_flag!}
 # https://ropemporium.com/challenge/pivot.html
 
