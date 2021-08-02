@@ -1,7 +1,6 @@
 # https://ropemporium.com/challenge/fluff.html
 # ROPE{a_placeholder_64byte_flag!}
 # pwn0x80.github.io
-# aditya0x80
 
 
 from pwn import *
