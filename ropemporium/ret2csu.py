@@ -1,7 +1,6 @@
 # https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf
 # ROPE{a_placeholder_32byte_flag!}
 # pwn0x80.github.io
-# aditya0x80
  
 from pwn import *
 elf = ELF('ret2csu')
