@@ -1,7 +1,6 @@
 # ROPE{a_placeholder_32byte_flag!}
 # https://ropemporium.com/challenge/badchars.html
 # pwn0x80.github.io
-# aditya0x80
 
 from pwn import *
 
