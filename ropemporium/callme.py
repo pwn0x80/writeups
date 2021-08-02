@@ -1,6 +1,5 @@
 # https://ropemporium.com/challenge/callme.html
 # pwn0x80.github.io
-#aditya0x80 -github
 
 from pwn import *
 
